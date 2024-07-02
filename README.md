@@ -1,6 +1,4 @@
-"Where in the Code is Carmen Sandiego"
-
-Game Simulation Project
+"Where in the Code is Carmen Sandiego" - Game Simulation Project
 
 Description
 
